@@ -5,7 +5,8 @@ A space-themed version of the classic Tower of Hanoi problem. The project is cre
 You are a programmer and crane operator working for NASA in the year 2040. NASA has a small colony on the moon. They also have a large unmanned aerial vehicle (UAV) on the moon.  NASA wants to move certain habitats to a statistically safer location. The habitats are modular and the UAV can pick up one module at a time. You are tasked with moving the habitats autonomously with the UAV. In order to protect the modules you cannot place them directly on the surface of the moon. NASA has built two new foundations for you to use in moving. There is the current foundation, a middle foundation, and a destination foundation. The first habitat you need to move is three modules high.
 
 ![alt text](https://github.com/ethansu10/lunar_tower_of_hanoi/blob/main/moon_background.png?raw=true)
-*(image of foundation layout)*
+*(image of foundation layout: moon surface from https://catalog.archives.gov/id/16685101)*
+
 ## How It's Made:
 
 **Tech used:** Scratch, C
